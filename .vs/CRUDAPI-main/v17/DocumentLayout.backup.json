@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskTwo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Errors\\GlobalExceptionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskTwo\\Errors\\GlobalExceptionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\DTOs\\AddOrEditProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskTwo\\DTOs\\AddOrEditProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskTwo\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskTwo\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Model\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskTwo\\Model\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskTwo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskTwo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskTwo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:40:14.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAlwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-16T19:39:07.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TaskTwo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TaskTwo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:24:04.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrEditProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\DTOs\\AddOrEditProductDto.cs",
+              "RelativeDocumentMoniker": "TaskTwo\\DTOs\\AddOrEditProductDto.cs",
+              "ToolTip": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\DTOs\\AddOrEditProductDto.cs",
+              "RelativeToolTip": "TaskTwo\\DTOs\\AddOrEditProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:23:57.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Errors\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "TaskTwo\\Errors\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Errors\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "TaskTwo\\Errors\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:23:48.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "TaskTwo\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Model\\Product.cs",
+              "RelativeToolTip": "TaskTwo\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:23:38.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\Program.cs",
+              "RelativeToolTip": "TaskTwo\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:22:48.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskTwo\\appsettings.json",
+              "ToolTip": "C:\\Users\\PAVILION\\Downloads\\CRUDAPI-main\\CRUDAPI-main\\TaskTwo\\appsettings.json",
+              "RelativeToolTip": "TaskTwo\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T19:23:17.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
